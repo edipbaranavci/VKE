@@ -9,4 +9,6 @@ Uygulamamızın tam olarak özellikleri: <br>
   <li>Get ile en son kullandığımız modu yerel kayıt yapma ve uygulamayı istedğimiz zaman geri açtığımızda en son seçili olan tema ile devam etme</li>
 </ul>
 Bu uygulamayı geliştirirken Xiaomi telefonlarında bulunan Hesap uygulamasında ki VKE kısmına bakarak esinlendim. <br>
+Web sitemi ziyaret etmek isterseniz <a href="https://eb-app.blogspot.com/2022/02/vke-hesaplama-uygulamasi.html">tıklayın</a>.<br />
+Uygulamayı Google Play Store' den indirmek <a href="https://play.google.com/store/apps/details?id=com.ekabav.vucut_kitle_endex">Tıklayın</a>. <br>
  Vücut Kitle Endex Hesaplama Uygulaması
